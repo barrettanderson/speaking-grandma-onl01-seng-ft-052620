@@ -14,4 +14,8 @@ require 'pry'
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-binding.pry
+def add_two_nums(a, b)
+  binding.pry
+end
+
+add_two_nums(1, 3)
