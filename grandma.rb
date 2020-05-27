@@ -18,6 +18,6 @@ def speak_to_grandma(string)
   elsif string = "Hi Nana, how are you?"
     "HUH?! SPEAK UP, SONNY!"
   elsif string == string.uppercase
-    
+
   end
 end
